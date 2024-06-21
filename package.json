@@ -43,7 +43,7 @@
     "morgan": "~1.9.1",
     "node-fetch": "^2.6.1",
     "node-fetch-npm": "^2.0.4",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1001.6",
